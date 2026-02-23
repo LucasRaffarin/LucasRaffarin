@@ -4,5 +4,5 @@
 
 🚀 Actuellement à la recherche d’une alternance en développement web, je souhaite m’investir dans des projets concrets afin de progresser et de monter en compétences.
 
-📫 N’hésitez pas à me contacter pour échanger sur vos projets ou pour envisager une éventuelle collaboration… promis, je ne mords pas !
+📫 N’hésitez pas à me contacter pour échanger sur vos projets ou pour envisager une éventuelle collaboration ! Promis, je ne mords pas !
 ###### Explorez mon [Site](https://lucasraffarin.fr/)
